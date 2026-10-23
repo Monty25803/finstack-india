@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="docs/github/banner.svg" alt="FinStack India — private ledger for Indian household finance" width="100%">
+<img src="docs/github/banner.jpg" alt="FinStack India — private ledger for Indian household finance" width="100%">
 
 <br/>
 
 **A production-grade personal finance vault for India.**  
-Net standings, spend velocity, EMI command, Account Aggregator sandbox, and a DPDP privacy desk — one dark ledger.
+Net standings · spend velocity · EMI command · Account Aggregator sandbox · DPDP privacy desk
 
-[![Next.js](https://img.shields.io/badge/Next.js-16-white?style=for-the-badge&labelColor=071018&color=e6b35a)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-white?style=for-the-badge&labelColor=071018&color=7ec8e3)](https://www.typescriptlang.org/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-v4-white?style=for-the-badge&labelColor=071018&color=3ee0a2)](https://tailwindcss.com/)
-[![India AA](https://img.shields.io/badge/Setu_AA-Sandbox-white?style=for-the-badge&labelColor=071018&color=b9a6ff)](https://docs.setu.co/data/account-aggregator/quickstart)
+<p>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16-e6b35a?style=flat-square&labelColor=071018" alt="Next.js 16"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5-7ec8e3?style=flat-square&labelColor=071018" alt="TypeScript"></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-v4-3ee0a2?style=flat-square&labelColor=071018" alt="Tailwind"></a>
+  <a href="https://docs.setu.co/data/account-aggregator/quickstart"><img src="https://img.shields.io/badge/Setu_AA-Sandbox-b9a6ff?style=flat-square&labelColor=071018" alt="Setu AA sandbox"></a>
+</p>
 
 </div>
 
